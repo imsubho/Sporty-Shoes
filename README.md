@@ -23,6 +23,10 @@ Sprints and Tasks.
 16.	Add CSS file and use Bootstrap to format the pages.
 17.	Debug and test the project.
 
+## Flowcharts of The Application
+![Blank Diagram](https://user-images.githubusercontent.com/64940728/123503775-b57b6e80-d65d-11eb-91a8-a83227b60509.png)
+
+
 ## Technologies and tools Used
 •	Spring MVC: to build web applications as it follows the Model-View-Controller design pattern. 
 
